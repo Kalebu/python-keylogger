@@ -8,9 +8,9 @@ Getting started !
 Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the **app.py** script and your keylogger should up spying on every keystroke you will ever write 
 
 ```bash
--> git clone https://github.com/Kalebu/python-keylogger
--> cd python-keylogger
-python-keylogger -> python app.py
+git clone https://github.com/Kalebu/python-keylogger
+cd python-keylogger
+python app.py
 ```
 
 keylogs.txt
